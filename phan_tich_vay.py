@@ -1,11 +1,13 @@
 import csv
 
+#Tạo hàm tính toán tiền lãi, số tiền phải trả
 def tinh_toan(so_tien_vay, lai_suat, so_thang):
     tien_lai_hang_thang = so_tien_vay * lai_suat / 12
     tong_tien_lai = tien_lai_hang_thang * so_thang
     tong_phai_tra = so_tien_vay + tong_tien_lai
     return tong_tien_lai, tong_phai_tra
 
+#Tạo hàm ghi dữ liệu vào file
 def xu_ly_ho_so(ten_file_doc, ten_file_ghi):
     ket_qua = []
 
