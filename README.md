@@ -7,7 +7,8 @@ Các script Python xử lý nghiệp vụ tín dụng ngân hàng — xây dựn
 Python cơ bản · requests · tabulate · JSON
 
 ## Các script đã có
-- bao_cao_buoi_sang.py — tổng hợp tỷ giá + thời tiết TP.HCM
+-  phan_tich_vay.py - Cơ bản functions, loop, try/except, read+write csv
+-  bao_cao_buoi_sang.py — Cơ bản requests: tổng hợp tỷ giá + thời tiết TP.HCM
 
 # Tác giả
 Đang học Python từ con số 0 → AI Engineer (2025–2027)
