@@ -11,4 +11,4 @@ Python cơ bản · requests · tabulate · JSON
 -  bao_cao_buoi_sang.py — Cơ bản requests: tổng hợp tỷ giá + thời tiết TP.HCM
 
 # Tác giả
-Đang học Python từ con số 0 → AI Engineer (2025–2027)
+Đang học Python từ con số 0 → AI Engineer (2026–2027)
