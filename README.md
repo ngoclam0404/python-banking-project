@@ -1,6 +1,6 @@
 # Python Banking Project
 
-Các script Python xử lý nghiệp vụ tín dụng — xây dựng trong quá trình học lập trình hướng đến AI Engineering.
+Các script Python xử lý nghiệp vụ tín dụng ngân hàng — xây dựng trong quá trình học lập trình hướng đến AI Engineering.
 
 # Giai đoạn 1: 
 ## Tech Stack
